@@ -493,6 +493,8 @@ img {
 /*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
+
+
 .home_banner_area {
   z-index: 1;
   background: url(https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif) no-repeat center center;
@@ -616,11 +618,14 @@ img {
 /* Start Pages Area css
 ============================================================================================ */
 .about_page .about_us_area {
+  background: url(https://wallpaperlayer.com/img/2015/9/simple-purple-backgrounds-5902-6170-hd-wallpapers.jpg) no-repeat center center;
   padding-bottom: 120px; }
 .about_page .frequently_area {
+  background: url(https://webgradients.com/public/webgradients_png/034%20Lemon%20Gate.png)no-repeat center center;
   padding: 120px 0; }
 
 .upcoming_games .frequently_area {
+  background: url(https://webgradients.com/public/webgradients_png/034%20Lemon%20Gate.png)no-repeat center center;
   padding: 120px 0; }
 
 /* End Pages Area css
@@ -2905,9 +2910,9 @@ h6 {
 ============================================================================================ */
 .testimonials_area {
   position: relative;
-  background: url(../img/testimonial_bg.png) no-repeat center;
-  background-size: cover; }
-
+  background: url(https://si.wsj.net/public/resources/images/BN-RQ353_0115mo_IM_20170115164441.jpg) no-repeat center;
+  background-size: cover;
+  filter: brightness(100%) }
 .testi_slider {
   margin: auto; }
   .testi_slider .testi_item {
