@@ -361,7 +361,7 @@ img {
   top: 0;
   left: 0;
   z-index: 9999;
-  background: #2c2172; }
+  background: #25274D; }
   .header_area .navbar-brand {
     margin-right: 30px; }
   .header_area .menu_nav {
@@ -457,7 +457,7 @@ img {
     top: -70px;
     left: 0;
     right: 0;
-    background: #2c2172;
+    background: #25274D;
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -497,7 +497,8 @@ img {
 
 .home_banner_area {
   z-index: 1;
-  background: url(https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif) no-repeat center center;
+  /* background-color: gray; */
+  background: url(../img/hom2.jpg) no-repeat center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -574,7 +575,7 @@ img {
   position: relative;
   min-height: 430px;
   z-index: 1;
-  background: url(https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif) no-repeat center center;
+  background: url(https://stmed.net/sites/default/files/lines-wallpapers-25249-1235696.png) no-repeat center center;
   background-size: cover; }
   .banner_area .banner_inner {
     position: relative;
@@ -618,10 +619,11 @@ img {
 /* Start Pages Area css
 ============================================================================================ */
 .about_page .about_us_area {
-  background: url(https://wallpaperlayer.com/img/2015/9/simple-purple-backgrounds-5902-6170-hd-wallpapers.jpg) no-repeat center center;
+  background-color: #29648A;
+  background-size: cover;
   padding-bottom: 120px; }
 .about_page .frequently_area {
-  background: url(https://webgradients.com/public/webgradients_png/034%20Lemon%20Gate.png)no-repeat center center;
+  background-color: #dd55f2;
   padding: 120px 0; }
 
 .upcoming_games .frequently_area {
@@ -2739,11 +2741,11 @@ h6 {
     width: 89%;
     top: 0;
     left: 0;
-    background: -webkit-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: -moz-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: -ms-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: -o-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
-    background: linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%); }
+    background: -webkit-linear-gradient(to right, #2E9CCA 0%, #81c6e6 51%, #2E9CCA 100%);
+    background: -moz-linear-gradient(to right, #2E9CCA 0%, #81c6e6 51%, #2E9CCA 100%);
+    background: -ms-linear-gradient(to right, #2E9CCA 0%, #81c6e6 51%, #2E9CCA 100%);
+    background: -o-linear-gradient(to right, #2E9CCA 0%, #81c6e6 51%, #2E9CCA 100%);
+    background: linear-gradient(to right, #2E9CCA 0%, #81c6e6 51%, #2E9CCA 100%); }
 
 /* End About Us Area css
 ============================================================================================ */
@@ -2910,7 +2912,7 @@ h6 {
 ============================================================================================ */
 .testimonials_area {
   position: relative;
-  background: url(https://si.wsj.net/public/resources/images/BN-RQ353_0115mo_IM_20170115164441.jpg) no-repeat center;
+  background-color: #464866;
   background-size: cover;
   filter: brightness(100%) }
 .testi_slider {
