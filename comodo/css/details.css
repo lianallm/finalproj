@@ -1,0 +1,67 @@
+#quotearea{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZ-u_7FTRMtZZkORb3dvHMVS0dAWa1Z_vTryeyfH6UuwKxbHccQ);
+    background-size: 100% 100%
+}
+
+.description{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+#cheese{
+    font-size: 50px;
+    padding-bottom: 50px;
+    margin:auto;
+    color: white;
+}
+
+#jen{
+    text-align:center;
+    color:white;
+}
+
+#jenname{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#jenimage{
+    margin-bottom: 10px;
+}
+
+#abigail{
+    text-align:center;
+    color:white;
+}
+
+#abigailname{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#abigailimage{
+    margin-bottom: 10px;
+}
+
+#jennysh{
+    text-align:center;
+    color:white;
+}
+
+#jennyshname{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#jennyshimage{
+    margin-bottom: 10px;
+}
+
+#addingsomepadding{
+    padding-bottom: 30px;
+}
+
+#habackground{
+    background-image: url(https://www.barraques.cat/pngfile/big/43-435693_cube-wallpaper-texture-hd-3d.jpg);
+    background-size: 100%
+}
