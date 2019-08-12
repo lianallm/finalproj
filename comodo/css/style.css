@@ -25,6 +25,17 @@ Author E-mail: naimlasker@gmail.com
 /* Wide Mobile Layout: 480px */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 body {
   line-height: 24px;
   font-size: 14px;
@@ -69,11 +80,15 @@ button:focus {
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
+
+
 .section_gap {
   padding: 120px 0; }
   @media (max-width: 767px) {
     .section_gap {
       padding: 60px 0; } }
+
+
 
 .section_gap_top {
   padding-top: 120px; }
