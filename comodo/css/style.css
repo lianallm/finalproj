@@ -497,7 +497,7 @@ img {
 
 .home_banner_area {
   z-index: 1;
-  background: url(https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif) no-repeat center center;
+  background: url(../banner/stars.gif) no-repeat center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -574,7 +574,7 @@ img {
   position: relative;
   min-height: 430px;
   z-index: 1;
-  background: url(https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif) no-repeat center center;
+  background: url(../img/banner/stars.gif) no-repeat center center;
   background-size: cover; }
   .banner_area .banner_inner {
     position: relative;
@@ -2949,9 +2949,9 @@ h6 {
 /* Start Pricing Plan Area css
 ============================================================================================ */
 .pricing_area {
+  background: #BAD4FD;
   position: relative;
   padding: 120px 0 80px; }
-
 .pricing_item {
   background: -webkit-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
   background: -moz-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
@@ -3233,7 +3233,7 @@ h6 {
   .nav {
     padding: 0px 0px; }
 
-  .header_area + section, .header_area + row, .header_area + div {
+  .header_area + section, .header_area + row, .header_area +  {
     margin-top: 117px; }
 
   .header_top .nav {
