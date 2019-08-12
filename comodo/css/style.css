@@ -512,7 +512,7 @@ img {
 
 .home_banner_area {
   z-index: 1;
-  background: url(../banner/stars.gif) no-repeat center center;
+  background: url(../img/hom2.jpg) no-repeat center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -637,7 +637,7 @@ img {
   background-size: cover;
   padding-bottom: 120px; }
 .about_page .frequently_area {
-  background-color: #dd55f2;
+  background-color: #AAABB8;
   padding: 120px 0; }
 
 .upcoming_games .frequently_area {
