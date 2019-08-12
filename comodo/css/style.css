@@ -497,12 +497,7 @@ img {
 
 .home_banner_area {
   z-index: 1;
-<<<<<<< HEAD
   background: url(../banner/stars.gif) no-repeat center center;
-=======
-  /* background-color: gray; */
-  background: url(../img/hom2.jpg) no-repeat center center;
->>>>>>> 6101f36ec9ba2324ed54d931fae4ff40e59e2f7f
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -579,11 +574,7 @@ img {
   position: relative;
   min-height: 430px;
   z-index: 1;
-<<<<<<< HEAD
   background: url(../img/banner/stars.gif) no-repeat center center;
-=======
-  background: url(https://stmed.net/sites/default/files/lines-wallpapers-25249-1235696.png) no-repeat center center;
->>>>>>> 6101f36ec9ba2324ed54d931fae4ff40e59e2f7f
   background-size: cover; }
   .banner_area .banner_inner {
     position: relative;
