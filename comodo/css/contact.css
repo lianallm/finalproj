@@ -1,0 +1,11 @@
+#contactbackground{
+    background-image: url("https://www.barraques.cat/pngfile/big/43-435693_cube-wallpaper-texture-hd-3d.jpg");
+    background-size: 100% 100%;
+    background-repeat: repeat;
+}
+
+.yt{
+    padding-left: 1.5%;
+    padding-right:1.5%;
+    border: 0px
+}

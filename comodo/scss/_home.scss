@@ -109,7 +109,7 @@
                     width: 100%;
                     content: "";
                     border: 2px solid transparent;
-                    @include border-gradient(90deg, #3fcaff, #a4ffb0);
+                    @include border-gradient(90deg, #F734DA, #a4ffb0);
                     border-image-slice: 1;
                 }
                 &.active,
