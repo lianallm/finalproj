@@ -530,7 +530,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif) no-repeat center center;
+  background: url(../img/banner/stars.gif) no-repeat center center;
   background-size: cover;
 }
 .home_banner_area .banner_inner {
