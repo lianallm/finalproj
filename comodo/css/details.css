@@ -77,3 +77,32 @@
   padding-top: 0px;
   padding-bottom: 0px;
 }
+
+.temp{
+    padding-bottom: 80px;
+    padding-top: 80px; 
+    color: white;
+    font-size: 30px;
+}
+
+.facts2{
+    background: #464866;
+    padding: 0px
+}
+
+.facts3{
+    background: black;
+    padding: 0px
+}
+
+#according{
+    padding-top: 100px;
+}
+
+#official{
+    padding-top: 80px;
+}
+
+.twitter{
+    text-align: center;
+}
