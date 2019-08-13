@@ -1,5 +1,5 @@
 #contactbackground{
-    background-image: url("https://www.barraques.cat/pngfile/big/43-435693_cube-wallpaper-texture-hd-3d.jpg");
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/557830/cb8a28a31b18ff3740917c87ff95a7758b5d05b6.jpg");
     background-size: 100% 100%;
     background-repeat: repeat;
 }
@@ -15,3 +15,8 @@
   background-size: 100% 100%;
   background-repeat: repeat;
 }
+
+#factground{
+    background-image: url("https://www.aqsitsolutions.com/wp-content/uploads/2019/04/digital-tech-aqs.gif");
+    background-size: 100% 100%;
+    background-repeat: repeat;
