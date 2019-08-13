@@ -80,7 +80,7 @@
 
 .temp{
     padding-bottom: 80px;
-    padding-top: 80px; 
+    padding-top: 80px;
     color: white;
     font-size: 30px;
 }
@@ -95,6 +95,12 @@
     padding: 0px
 }
 
+.facts4{
+    background-color: #464866;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px
+}
 #according{
     padding-top: 100px;
 }
